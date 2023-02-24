@@ -12,5 +12,9 @@
   Requisito funcional seria para qual finalidade um sistema seria desenvolvido, ou seja o que o sistema fará, um exemplo seria a relação entre mensanger e whatsapp em ambos, o requisito funcional se preocupam com a possibilidade de comunição entre os usuarios.
 #### O que seria um requisito não funcional?
   Requisito não funcional será o que diferenciar uma aplicação para outra. Esses estão mais preocupados em buscar uma melhor performance e qualidade, como por exemplo uma diferença entre requisitos não funcionais entre duas empresas seria entre a Amazon e Americanas ambas tem o mesmo requisito funcional a possibilidade de compra e venda na plataforma, mas o requisito não funcional se diferencia muito entre elas, uma se preocupa mais em entregar algo simples sem muita poluição em seu site outra já para outro lado incrementa mais coisa.
- 
- 
+  
+#### 2 exemplos de Trade-offs em requisitos não funcionais
+  ° curva de aprendizagem de uma linguagem, como por exemplo: Rust é uma linguagem mais robusta que demanda mais tempo de aprendizagem em relação a outras.
+  
+  ° flexibilidade vs desempenho, ou seja um sistema muito flexível pode apresentar ser mais lento. 
+  
