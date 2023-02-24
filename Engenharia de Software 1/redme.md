@@ -6,8 +6,11 @@
   
   A engenharia de software seria a busca constante de entregar qualidade e desempenho ao cliente ao longo do tempo, com isso é recorrente a modificação, criação e a manutenção de um sistema seja em seus requisitos funcionais ou não funcionais. A relação entre a programação e engenharia de software se da pela a criação de novos sistemas, mas como visto a engenharia não se delimita a apenas a essa tarefa.
   
- o que é requisito?
-  Requisito a demanda solicitaa pelo cliente, afim de satisfazer ou resolver um problema.
- o que é requisito funcional?
-  Requisito funcional seria para qual finalidade um sistemna seria desenvolvido
+#### O que é requisito?
+  Requisito a demanda solicitada pelo cliente, afim de satisfazer ou resolver algum problema problema.
+#### O que é requisito funcional?
+  Requisito funcional seria para qual finalidade um sistema seria desenvolvido, ou seja o que o sistema fará, um exemplo seria a relação entre mensanger e whatsapp em ambos, o requisito funcional se preocupam com a possibilidade de comunição entre os usuarios.
+#### O que seria um requisito não funcional?
+  Requisito não funcional será o que diferenciar uma aplicação para outra. Esses estão mais preocupados em buscar uma melhor performance e qualidade, como por exemplo uma diferença entre requisitos não funcionais entre duas empresas seria entre a Amazon e Americanas ambas tem o mesmo requisito funcional a possibilidade de compra e venda na plataforma, mas o requisito não funcional se diferencia muito entre elas, uma se preocupa mais em entregar algo simples sem muita poluição em seu site outra já para outro lado incrementa mais coisa.
+ 
  
