@@ -18,3 +18,6 @@
   
   ° flexibilidade vs desempenho, ou seja um sistema muito flexível pode apresentar ser mais lento. 
   
+ ### Diagrama
+ ![Captura de tela 2023-03-17 084010](https://user-images.githubusercontent.com/112169564/225895986-029f7180-1c17-45dd-b9e2-1d432b1f5352.png)
+
