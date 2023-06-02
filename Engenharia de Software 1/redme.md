@@ -20,7 +20,8 @@
   
  ### Diagrama
  
-![Capturar](https://github.com/Ianportods/BERTOTI/assets/112169564/b5f69d34-2fc5-487a-8260-e46e128592d2)
+
+![Capturar](https://github.com/Ianportods/BERTOTI/assets/112169564/1effec8a-0a30-4fdb-b1c2-c1f04b8494c3)
 
 
  ### Código
