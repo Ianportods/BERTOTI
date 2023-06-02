@@ -20,7 +20,8 @@
   
  ### Diagrama
  
- ![Captura de tela 2023-05-18 093646](https://github.com/Ianportods/BERTOTI/assets/112169564/672cfd8e-9875-4309-8361-877f8a87928e)
+![Capturar](https://github.com/Ianportods/BERTOTI/assets/112169564/b5f69d34-2fc5-487a-8260-e46e128592d2)
+
 
  ### Código
 [Curso.zip](https://github.com/Ianportods/BERTOTI/files/11507813/Curso.zip)
