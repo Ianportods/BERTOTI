@@ -11,6 +11,7 @@ As 10 heurísticas de usabilidade foram propostas por Jakob Nielsen e são princ
 - Ajuda aos usuários a reconhecerem, diagnosticarem e se recuperarem de erros.
 - Ajuda a documentação
 
+
 **Nº 1:  Visibilidade do status do sistema**
 
 O design deve sempre manter os usuários informados sobre o que está acontecendo, através de feedback apropriado dentro de um período de tempo razoável.
@@ -21,12 +22,12 @@ ACERTO: Conseguimos facilmente nos localizar e entender qual o conteúdo que vem
 
 
 ––
-
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.001.png)
-
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 001](https://github.com/Ianportods/BERTOTI/assets/112169564/5a559aa2-b482-4fd1-bc54-8e0a1272c249)
 
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.002.png)
+
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 002](https://github.com/Ianportods/BERTOTI/assets/112169564/a0dfb7b7-da00-4a71-b7cf-8ba7174fb680)
+
 
 
 
@@ -50,11 +51,13 @@ A pesquisa do usuário descobrirá a terminologia familiar de seus usuários, be
 
 ACERTO: Símbolos universais e intuitivos que facilitam o entendimento das ações.
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.003.png)
-
-![ref1]
 
 
+
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 003](https://github.com/Ianportods/BERTOTI/assets/112169564/59f4ab06-7be4-4260-be84-5b59fdb4ae8e)
+
+
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 004](https://github.com/Ianportods/BERTOTI/assets/112169564/6a3e8981-eafe-4732-8098-f05b7de0aa50)
 
 
 
@@ -77,10 +80,14 @@ Mostre uma maneira clara de sair da interação atual, como um botão Cancelar.
 
 Certifique-se de que a saída esteja claramente identificada e detectável.
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.005.png)
 
 
-![ref2]
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 005](https://github.com/Ianportods/BERTOTI/assets/112169564/10688d41-686a-401e-9636-557cced00c8b)
+
+
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 006](https://github.com/Ianportods/BERTOTI/assets/112169564/c2115405-c275-4274-81df-d0efefb32239)
+
+
 
 
 
@@ -103,7 +110,9 @@ Siga as convenções estabelecidas do setor (consistência externa).
 ACERTO: Interfaces com padrões visuais em diferentes ferramentas.
 
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.007.png)
+
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 007](https://github.com/Ianportods/BERTOTI/assets/112169564/e7ccc9c9-6576-4756-b74d-1b463e906a23)
+
 
 
 
@@ -126,11 +135,12 @@ Evite erros removendo sobrecargas de memória, suportando desfazer e avisando se
 ACERTO: Mensagens que possibilitam que o usuário evite de tomar uma ação errônea.
 
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.008.png)
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 008](https://github.com/Ianportods/BERTOTI/assets/112169564/17857759-c55c-4090-85e6-c720949f358b)
 
 
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 009](https://github.com/Ianportods/BERTOTI/assets/112169564/c4171566-eae4-40ab-8829-360502054521)
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.009.png)
+
 
 
 
@@ -148,8 +158,7 @@ Reduza as informações que os usuários precisam lembrar.
 
 ACERTO: Fácil reconhecimento de ações em um site de vendas, como onde procurar o produto, carrinho, permite que o usuário reconheça locais.
 
-
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.010.png)
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 010](https://github.com/Ianportods/BERTOTI/assets/112169564/ef4d457d-5eff-4b05-9c67-3b6d4493b00e)
 
 
 
@@ -167,7 +176,12 @@ Permita a personalização, para que os usuários possam fazer seleções sobre 
 
 
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.011.png)
+
+
+
+
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 011](https://github.com/Ianportods/BERTOTI/assets/112169564/801c3b31-6514-49a4-9623-7644ba4af483)
+
 
 
 
@@ -184,13 +198,12 @@ Não deixe que elementos desnecessários distraiam os usuários das informaçõe
 
 Priorize o conteúdo e os recursos para apoiar os objetivos principais.
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.012.png)
-
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.013.png)
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 012](https://github.com/Ianportods/BERTOTI/assets/112169564/bd2ce2d7-049c-49da-8c3d-9d08355d69eb)![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 013](https://github.com/Ianportods/BERTOTI/assets/112169564/548e0a9f-f745-43d5-9f6d-dc3dc8529715)
 
 
+**Nº 9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros**!
 
-**Nº 9: Ajude os usuários a reconhecer, diagnosticar e se recuperar de erros**
+
 
 As mensagens de erro devem ser expressas em linguagem simples (sem códigos de erro), indicar com precisão o problema e sugerir uma solução de forma construtiva.
 
@@ -206,10 +219,13 @@ Diga aos usuários o que deu errado em uma linguagem que eles entenderão – ev
 
 Ofereça aos usuários uma solução, como um atalho que pode resolver o erro imediatamente.
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.014.png)
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.015.png)
 
+
+
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 014](https://github.com/Ianportods/BERTOTI/assets/112169564/2f55c016-600d-4864-bdf5-359af9646533)
+
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 015](https://github.com/Ianportods/BERTOTI/assets/112169564/940000e1-6cd3-4b31-ab27-fda9424ef6fb)
 
 
 **Nº 10: Ajuda e documentação**
@@ -228,10 +244,11 @@ Sempre que possível, apresente a documentação contextualizada no momento em q
 
 Liste as etapas concretas a serem executadas.
 
-![](Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.016.png)
 
 
 
 
-[ref1]: Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.004.png
-[ref2]: Aspose.Words.135897c7-5f67-4110-939b-685aca7e583e.006.png
+![Aspose Words 135897c7-5f67-4110-939b-685aca7e583e 016](https://github.com/Ianportods/BERTOTI/assets/112169564/93814943-96ca-4ffe-ab6a-6636a2126362)
+
+
+
